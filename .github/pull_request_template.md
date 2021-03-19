@@ -9,7 +9,7 @@ relates # (issue)
 # Dependency changes
 
 List any dependencies that have been removed/added/changed in this pull request.
-Has Ppackage-lock.json been updated?
+Has the pipfile.lock or package-lock.json been updated?
 
 # Testing
 
